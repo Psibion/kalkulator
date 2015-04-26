@@ -2,8 +2,6 @@ package com.example.psibion.myapplicationplus;
 
 import android.app.Activity;
 import android.app.Fragment;
-import android.app.FragmentTransaction;
-import android.app.ListFragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
